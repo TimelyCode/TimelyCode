@@ -1,23 +1,11 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub! 👋
 
-I'm a passionate **Android Developer** specializing in **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**. I love crafting beautiful and user-friendly mobile applications with clean and efficient code.
+Hi, I'm an **Android Developer** specializing in **Kotlin** and **Jetpack Compose**.  
+I enjoy building modern, user-friendly apps and experimenting with new technologies.  
 
-## About Me
-- 💻 **Android Development**: Building modern, scalable, and responsive Android applications is my main focus.
-- 🌐 **Web Development**: Experienced with JavaScript and Python for web-based projects.
-- 🎨 **UI/UX Design**: Proficient in tools like **Figma** for creating intuitive and visually appealing user interfaces.
-- 🌱 Always learning and staying up-to-date with the latest technologies in mobile and web development.
+## Skills
+- **Android Development**: Kotlin, Jetpack Compose, KMP
+- **UI/UX Design**: Figma
+- **General Programming**: Web, JavaScript, Python
 
-## What You'll Find Here
-On this GitHub, you'll discover:
-- 🛠️ **Open-source Android projects**
-- 🚀 Experiments with **Kotlin Multiplatform**
-- 💡 Innovative ideas for **UI/UX design**
-- 🔗 Contributions to web and backend development projects
-
-## Let's Connect
-Feel free to explore my repositories, share your thoughts, or reach out for collaboration. I'm always excited to connect with like-minded developers and learn from the community!
-
----
-Thank you for visiting my profile! 😊
-
+Feel free to explore my repositories and connect! 🚀
