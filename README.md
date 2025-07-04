@@ -10,7 +10,7 @@ I focus on creating modern, efficient, and user-friendly Android applications. �
 ## 🌐 About Me
 I am passionate about exploring new technologies and improving my development skills. My journey in Android development is driven by creativity and a strong desire to build solutions that make a difference.
 
-## 📂 Featured Projects
+## 📂 Featured Projects (SOON)
 
 
 Feel free to explore my repositories and connect! 🌐💬
